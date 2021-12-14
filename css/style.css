@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+*{
+    font-family: 'Sofia', cursive;
+    background-repeat: no-repeat;
+    margin: 0;
+
+}
+
+a{
+    color: #E9E7DA !important;
+    text-decoration: none;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+p{
+    font-size: 14px;
+}
+
+.colorFondo{
+    background-color:#999348 ;
+    color: #E9E7DA;
+}
+
+.contenedorMenu{
+    background-color: #999348;
+    margin: 0;
+    padding: 0;
+}
+
+.colorTitulo{
+    color:#CAE4DB;
+}
+
+.tamanoImagen{
+    max-height: 600px;
+    width: 100%;
+}
+
+.tamanoFormulario{
+    border: 1px solid #E9E7DA;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+
+
+
+

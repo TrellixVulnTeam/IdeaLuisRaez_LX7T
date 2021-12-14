@@ -1,0 +1,24 @@
+en el index:
+<meta name="keywords" content="diseño, diseñador, interior, interiores, arquitectura, planos">
+<title>Inicio de TH Interior Design</title>
+<meta name="description" content="Esta es la vista principal de la diseñadora de interiores">
+
+en el contacto:
+<meta name="keywords" content="correo, mensaje, email">
+<title>Contacto de TH Interior Design</title>
+<meta name="description" content="En esta vista puedes contactar a la diseñadora">
+
+en el proyectos:
+<meta name="keywords" content="proyectos, entregas, trabajos, contratos">
+<title>Proyectos de TH Interior Design</title>
+<meta name="description" content="En esta vista se aprecian los proyectos ya entregados y ejecutados">
+
+en el productos:
+<meta name="keywords" content="productos, muebles, planos">
+<title>Productos de TH Interior Design</title>
+<meta name="description" content="En esta vista se ve productos y cotizaciones">
+
+en el nosotros:
+<meta name="keywords" content="nosotros, carrera, profesional">
+<title>Nosotros de TH Interior Design</title>
+<meta name="description" content="En esta vista se encuentra una descripción de la linea profesional de la diseñadora">
